@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/bigdata-stackoverflow_0.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/stackoverflow.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/stackoverflow.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/Posting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/Posting.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/Posting.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/Posting.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/StackOverflow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/StackOverflow$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/Posting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/Posting$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/StackOverflow.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/StackOverflow.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	stackoverflow/StackOverflow.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/chris/EPFL/parcon/cs206-stackoverflow/target/scala-0.13/classes/stackoverflow/StackOverflow.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
