@@ -1,7 +1,0 @@
-launchIDE
-> runMain kmeans.KMeansRunner
-runMain kmeans.KMeansRunner
-run-main kmeans.fun.ScalaShop
-exit
-launchIDE
-exit
